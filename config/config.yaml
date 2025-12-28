@@ -1,0 +1,13 @@
+database:
+  host: localhost
+  port: 5432
+  user: system
+  password: student
+  database: projekt_d1_db
+
+import_paths:
+  zakaznici_csv: "data/zakaznici.csv"
+  produkty_csv: "data/produkty.csv"
+
+report:
+  output_path: "reports/"
