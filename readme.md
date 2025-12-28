@@ -138,7 +138,7 @@ python -c "import mysql.connector; print('OK')"
 
 ## 4. Run the Application
 
-Run the application from the project root directory:
+Run the application from the project root directory: 
 
 ```bash
 python main.py
